@@ -256,6 +256,8 @@ header .menu_btn #menu-icon {
 .project_container .project img {
   border-radius: 30px;
   margin-bottom: 1rem;
+  width: 400px;
+  height: 300px;
 }
 .project_container .btn {
   border: 2px solid #12372A;
